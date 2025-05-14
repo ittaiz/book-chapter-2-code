@@ -1,5 +1,5 @@
 package org.mikadomethod.app.ui;
-
+// comment
 import java.awt.FlowLayout;
 import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
